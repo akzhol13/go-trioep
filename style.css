@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#header {
+    background: #1F5E37;
+}
+
+#section {
+    background: #1F5E37;
+}
+
+.header h1 {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.links {
+    display: flex;
+    gap: 50px;
+}
+
+.links a {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.links2 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.links2 a {
+    color: #fff;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.links2 button {
+    border-radius: 27px;
+background: linear-gradient(130deg, #FF7B4E 15.57%, #FF584E 95.03%);
+color: #fff;
+padding: 13px 43px;
+}
+
+.section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.world {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 11px 30px;
+    border-radius: 15px;
+    background: rgba(255, 255, 0.25);
+    margin-bottom: 10px;
+}
+
+text p {
+    color: #fff;
+    font-size: 55px;
+    font-weight: 600;
+}
+
+text h5 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+  padding: 30px 0;
+  opacity: 0.5;  
+}
+
+.now {
+    color: #fefefe;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 26px 45px;
+    border-radius: 27px;
+    cursor: pointer;
+    background: #FF7B4E;
+}
+
+.block {
+    display: flex;
+    justify-content: space-around;
+}
+
+.picture img {
+    border-radius: 40px;
+}
+
+.star h1 {
+    color: #0f1f1c;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.logo {
+    width: 120px;
+    height: 120px;
+    background: #fa9;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.theboy {
+    display: flex;
+    gap: 30px;
+}
+
+.theboy h4 {
+    color: #0f1f1c;
+    font-size: 33px;
+    font-weight: 500;
+}
+
+.theboy span {
+    color: #0f1f1c;
+    font-size: 25px;
+    font-weight: 400;
+    opasity: 0.5;
+}
+
+.star p {
+    color: #0f1f1c;
+    font-size: 22px;
+    font-weight: 500;
+    padding-top: 50px;
+}
+
+.st {
+    color: #ffd336;
+}
+
+.ar {
+    color: #c4c4c4;
+}
+
+.stars {
+    font-size: 40px;
+    padding-top: 30px;
+}
+
+  
